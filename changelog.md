@@ -3,7 +3,7 @@
 - Mediatek Only!
 - Added some GPU perf
 - Added some CPU perf
-- Added Termux script 'su -c chimera' (BETA)
+- Added Termux script (BETA)
 
 ### Fixes & Improvements
 - Improve some UI experience
