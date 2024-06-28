@@ -1,3 +1,18 @@
+# Chimera v1.1
+### New
+- Increased the temperature drop limit
+- Replaced SQLite for compatibility
+- Removed several unnecessary system properties
+
+### Fixes & Improvements
+- Improves some memory stability
+- increases internal read/write speed
+- Fully supports GSI ROM
+
+
+
+
+
 # Chimera v1.0
 ### New
 - Mediatek Only!
